@@ -35,7 +35,7 @@ let questions = [{
   q1: 'Who is our current Indian team cricket captain',
   choice: ' 1)Virat Kohli\n 2)Dhoni\n 3)Ganguly\n 4)Rahul Dravid\n',
   edge: '===========================================',
-  next_question: 'Thankyou, check to next question',
+  next_question: 'Thankyou, lets move to next question',
   answer: '1'
 }];
 let correct_answer = 0;
