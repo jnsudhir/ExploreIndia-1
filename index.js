@@ -51,7 +51,7 @@ for (let i = 0; i < 5; i++) {
   }
   console.log(questions[i].next_question);
   console.log(questions[i].edge);
+}
   console.log("You are done with questions,lets check your score.");
   console.log(`Hey ${name}, your score is ${correct_answer}`);
-}
 
