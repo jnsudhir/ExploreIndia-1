@@ -1,7 +1,7 @@
 console.log("Hey there, Thanks for opening this site");
 const readLineSync = require('readline-sync');
 const name = readLineSync.question('What is your name?\n');
-console.log(`Hello ${name}! , feelig bored? Lets play quiz on KNOW YOUR COUNTRY`)
+console.log(`Hello ${name}! , feeling bored? Lets play quiz on KNOW YOUR COUNTRY`)
 let questions = [{
   q1: 'What Indian city is the capital of two states?',
   choice: ' 1) Kolkota\n 2)chennai\n 3)Chandigarh\n 4)Mumbai\n',
